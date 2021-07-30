@@ -5,3 +5,7 @@
   margin: 10px;
   display: inline-block;
 }
+
+h1 {
+  font-family: 'Quicksand', sans-serif;
+}
